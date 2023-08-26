@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.notice{
+  color: green;
+  margin: 15px;
+  font-size: 13px;
+}
+
+body{
+  margin: 30px;
+}
+
+table{
+  table-layout: auto;
+}
+
+td{
+  padding: 0 15px;
+}
+
+.error{
+  width: 50%;
+  background-color: grey;
+}
+
+ul{
+  width: 50%;
+  margin-left: 25%;
+  font-size: 13px;
+  line-height: 30px;
+}
+
+.message{
+  width: 50%;
+  background-color: red;
+  color: white;
+}
+// Place all the styles related to the books controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
